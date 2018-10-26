@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="OpenMarket" GeneratedClassName="om">
+  <Profiles />
+  <Settings>
+    <Setting Name="api_base_url" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://smsc.openmarket.com/sms/v4/</Value>
+    </Setting>
+    <Setting Name="send_method_name" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">mt</Value>
+    </Setting>
+    <Setting Name="confirm_method_name" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">preview/</Value>
+    </Setting>
+    <Setting Name="mms_method_name" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">mms/v2/send</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
